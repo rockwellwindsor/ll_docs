@@ -1,0 +1,98 @@
+site_name: IO | Cloud CMS for Web Professionals
+theme: material
+pages:
+  - Introduction: 
+    - 'Introduction': 'index.md'
+  - Developers:
+    - 'Introduction': 'developers_index.md'
+    - Models:
+      - 'Account':                 'developer/models_account.md'
+      - 'Action':                  'developer/models_action.md'
+      - 'API Key':                 'developer/models_api_key.md'
+      - 'Cache Key':               'developer/models_cache_key.md'
+      - 'Call to Action Response': 'developer/models_call_to_action_response.md'
+      - 'Campaign':                'developer/models_campaign.md'
+      - 'Campaign Source':         'developer/models_campaign_source.md'
+      - 'Entity':                  'developer/models_entity.md'
+      - 'Error':                   'developer/models_error.md'
+      - 'Include':                 'developer/models_include.md'
+      - 'Lead':                    'developer/models_lead.md'
+      - 'Link Builder Link':       'developer/models_link_builder_link.md'
+      - 'Navigation':              'developer/models_navigation.md'
+      - 'Navigation Item':         'developer/models_navigation_item.md'
+      - 'Page':                    'developer/models_page.md'
+      - 'Page Mention':            'developer/models_page_mention.md'
+      - 'Page Visit':              'developer/models_page_visit.md'
+      - 'Processed Resource':      'developer/models_processed_resource.md'
+      - 'Redirect':                'developer/models_redirect.md'
+      - 'Report Row':              'developer/models_report_row.md'
+      - 'Resource Folder':         'developer/models_resource_folder.md'
+      - 'Resource Mention':        'developer/models_resource_mention.md'
+      - 'Richtext Editor Config':  'developer/models_richtext_editor_config.md'
+      - 'Role':                    'developer/models_role.md'
+      - 'Site':                    'developer/models_site.md'
+      - 'Site Role':               'developer/models_site_role.md'
+      - 'Static Asset':            'developer/models_static_asset.md'
+      - 'Template':                'developer/models_template.md'
+      - 'Template Field':          'developer/models_template_field.md'
+      - 'Template Response':       'developer/models_template_response.md'
+      - 'User':                    'developer/models_user.md'
+    - Controllers:
+      - 'Introduction': 'developers_index.md'
+    - Workers:
+      - 'Introduction': 'developers_index.md'
+  - Site Admins:
+    - 'Introduction': 'site_admin_index.md'
+  - Content Admins:
+    - 'Introduction': 'content_admins_index.md'
+  # - Setup:
+  #   - 'Setup':        'setup/setup.md'
+    # Below items are commented out.  I will remove them once I am sure they are not needed
+    # - 'Requirements': 'setup/requirements.md' 
+    # - 'Updating':     'setup/updating.md'
+    # - 'Installing':   'setup/installing.md'
+    
+  # - IO folder structure: 'folder_structure.md'
+  # - Inbound Marketing and Analytics:
+  #   - 'Leads':                  'inbound_marketing_and_analytics/leads.md'
+  #   - 'Lead Generation Report': 'inbound_marketing_and_analytics/lead_generation_report.md'
+  #   - 'Campaign Report':        'inbound_marketing_and_analytics/campaign_report.md'
+  #   - 'Page Visit Report':      'inbound_marketing_and_analytics/page_visits_report.md'
+  #   - 'Link Builder':           'inbound_marketing_and_analytics/link_builder.md'
+  #   - '404 Errors':             'inbound_marketing_and_analytics/404_errors.md'
+  # - Site Admin: 
+  #   - 'Templates':         'site_admin/templates.md'
+  #   - 'Includes':          'site_admin/includes.md'
+  #   - 'Resource Library':  'site_admin/resource_library.md'
+  #   - 'Static Assets':     'site_admin/static_asset.md'
+  #   - 'Navigtion':         'site_admin/navigation.md'
+  #   - 'Errors':            'site_admin/errors.md'
+  # - Content Admin: 
+  #   - 'Content Admin': 'content_admin.md'
+  # - Site Settings:
+  #   - 'Basic Settings':     'site_settings/basic.md'
+  #   - 'Marketing Settings': 'site_settings/marketing.md'
+  #   - 'API Keys':           'site_settings/api_keys.md'
+  #   - 'Redirects':          'site_settings/redirects.md'
+  #   - 'Advanced Settings':  'site_settings/advanced.md'
+  # - User Settings:
+  #   - 'Create Account': 'user_settings/create_account.md'
+  #   - 'Create Site':    'user_settings/create_site.md'
+  #   - 'Manage Account': 'user_settings/manage_account.md'
+  #   - 'My Settings':    'user_settings/my_settings.md'
+  # - JSON fields:
+  #   - 'JSON fields': 'JSON_fields.md'
+  # - Tags:
+  #   - 'Breadcrumbs Tag':             'tags/breadcrumbs.md'
+  #   - 'Cache Tag':                   'tags/cache.md'
+  #   - 'Collect Tag':                 'tags/collect.md'
+  #   - 'Download Resource Tag':       'tags/downloadresource.md'
+  #   - 'For Each Nav Item Tag':       'tags/foreachnavitem.md'
+  #   - 'For Each Page Tag':           'tags/foreachpage.md'
+  #   - 'For Each Search Result Tag':  'tags/foreachsearchresult.md'
+  #   - 'Include Page Tag':            'tags/includepage.md'
+  #   - 'Instagram Recent Media Tag':  'tags/instagramrecentmedia.md'
+  #   - 'Resource Tag':                'tags/resource.md'
+  #   - 'Rss Feed Tag':                'tags/rssfeed.md'
+  #   - 'Static Asset Tag':            'tags/staticasset.md'
+
